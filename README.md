@@ -9,6 +9,7 @@ Minimal Java networking exercises grouped by TP folder.
   - `exo1`: UDP multicast time broadcaster/listener.
   - `exo2`: Basic UDP request/response (client/server hello exchange).
   - `exo3`: UDP object transfer (`Personne`) + server-side age calculation.
+- `tp4`: Java RMI exercises (hello service and remote bank account operations).
 - `tp11`: TCP object serialization/deserialization (`Voiture`) between server and client.
 
 ## Quick run
